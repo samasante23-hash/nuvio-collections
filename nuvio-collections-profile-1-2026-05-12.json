@@ -1,0 +1,879 @@
+[
+  {
+    "id": "collections-streaming-community",
+    "title": "🎬 Streaming",
+    "folders": [
+      {
+        "id": "collections.streaming.netflix",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.nfx"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.nfx"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://i.pinimg.com/originals/bb/74/04/bb74046420c4c992b8cabc6e667abe40.gif",
+        "heroVideoUrl": "https://i.pinimg.com/originals/bb/74/04/bb74046420c4c992b8cabc6e667abe40.gif",
+        "titleLogoUrl": "https://i.postimg.cc/7LbyMFCs/Netflix_white.png",
+        "coverImageUrl": "https://i.postimg.cc/7LbyMFCs/Netflix_white.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/netflix.jpg"
+      },
+      {
+        "id": "collections.streaming.disney-plus",
+        "title": "Disney Plus",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.dnp"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.dnp"
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "community.aiocatalogs.308d4bc3-ca08-4a98-bcba-19168068693d",
+            "provider": "addon",
+            "catalogId": "mdblist_47292_mdblist_47292"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/disney-plus.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/disney-plus.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/disney-plus.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.aiocatalogs.308d4bc3-ca08-4a98-bcba-19168068693d",
+            "catalogId": "mdblist_47292_mdblist_47292"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/disney-plus.jpg"
+      },
+      {
+        "id": "collections.streaming.prime-video",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.streaming_prime_video_9_3.mofpwoue"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.streaming_prime_video_9_3.mofpwoue"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/prime-video.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/prime-video.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/prime-video.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.streaming_prime_video_9_3.mofpwoue"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.streaming_prime_video_9_3.mofpwoue"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/prime-video.jpg"
+      },
+      {
+        "id": "collections.streaming.apple-tv",
+        "title": "Apple TV",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.streaming_apple_tv_350_4.mofpwoue"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.streaming_apple_tv_350_4.mofpwoue"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/apple-tv.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/apple-tv.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/apple-tv.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.streaming_apple_tv_350_4.mofpwoue"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.streaming_apple_tv_350_4.mofpwoue"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/apple-tv.jpg"
+      },
+      {
+        "id": "collections.streaming.hbo-max",
+        "title": "HBO Max",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.streaming_hbo_max_1899_1.mofpwoue"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.streaming_hbo_max_1899_1.mofpwoue"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/hbo-max.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/hbo-max.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/hbo-max.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.streaming_hbo_max_1899_1.mofpwoue"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.streaming_hbo_max_1899_1.mofpwoue"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/hbo-max.jpg"
+      },
+      {
+        "id": "collections.streaming.hulu",
+        "title": "Hulu",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.streaming_hulu_15_7.mofpwoue"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.streaming_hulu_15_7.mofpwoue"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/hulu.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/hulu.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/hulu.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.streaming_hulu_15_7.mofpwoue"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.streaming_hulu_15_7.mofpwoue"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/hulu.jpg"
+      },
+      {
+        "id": "collections.streaming.paramount-plus",
+        "title": "Paramount Plus",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.streaming_paramount_2616_2303_5.mofpwoue"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.streaming_paramount_2616_2303_5.mofpwoue"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/paramount-plus.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/paramount-plus.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/paramount-plus.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.streaming_paramount_2616_2303_5.mofpwoue"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.streaming_paramount_2616_2303_5.mofpwoue"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/paramount-plus.jpg"
+      },
+      {
+        "id": "collections.streaming.peacock",
+        "title": "Peacock",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.streaming_peacock_386_387_6.mofpwoue"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.streaming_peacock_386_387_6.mofpwoue"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/peacock.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/peacock.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/peacock.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.streaming_peacock_386_387_6.mofpwoue"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.streaming_peacock_386_387_6.mofpwoue"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/peacock.jpg"
+      },
+      {
+        "id": "collections.streaming.discovery-plus",
+        "title": "Discovery Plus",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.streaming_discovery_520_10.mofpwoue"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.streaming_discovery_520_10.mofpwoue"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/discovery-plus.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/discovery-plus.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/discovery-plus.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.streaming_discovery_520_10.mofpwoue"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.streaming_discovery_520_10.mofpwoue"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/discovery-plus.jpg"
+      },
+      {
+        "id": "folder-46421b29",
+        "title": "BET+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.bet"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.bet"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://s13.gifyu.com/images/bqm66.gif",
+        "heroVideoUrl": "https://s13.gifyu.com/images/bqm66.gif",
+        "titleLogoUrl": "https://nuvioapp.space/uploads/covers/c81f2cbf-9dd3-4696-abd9-481076c78448.png",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/c81f2cbf-9dd3-4696-abd9-481076c78448.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.bet"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.bet"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-995842b4",
+        "title": "Starz",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.streaming_starz_43_9.mofpwoue"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.streaming_starz_43_9.mofpwoue"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://i.postimg.cc/3rGgnnPG/1000390458_(1).gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://i.postimg.cc/7Lzrqgjd/starz-transparent.png",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/2938ada1-2aab-4ea0-9144-451309d5e4f3.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.streaming_starz_43_9.mofpwoue"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.streaming_starz_43_9.mofpwoue"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/j5g9F2rG/IMG-2242.jpg"
+      },
+      {
+        "id": "folder-5cc02ec7",
+        "title": "AMC+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.streaming_amc_526_12.mofpwoue"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.streaming_amc_526_12.mofpwoue"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://i.postimg.cc/s29y21rh/amc.gif",
+        "heroVideoUrl": "https://i.postimg.cc/RVWzrXbr/amcplus.gif",
+        "titleLogoUrl": "https://nuvioapp.space/uploads/covers/56700277-21b6-4ef0-b63a-f4b830340bfd.png",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/56700277-21b6-4ef0-b63a-f4b830340bfd.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.streaming_amc_526_12.mofpwoue"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.streaming_amc_526_12.mofpwoue"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": ""
+      },
+      {
+        "id": "folder-cf27e470",
+        "title": "MGM+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.streaming_mgm_plus_34_19.mofpwoue"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.streaming_mgm_plus_34_19.mofpwoue"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://images.squarespace-cdn.com/content/v1/585c6ff79de4bb6fe48cd104/df9b8503-cc60-4571-9af2-f81393537151/MGM_Thumbnail_B.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://i.postimg.cc/vmQVSPZv/mgmplus-white2.png",
+        "coverImageUrl": "https://i.postimg.cc/vmQVSPZv/mgmplus-white2.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.streaming_mgm_plus_34_19.mofpwoue"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.streaming_mgm_plus_34_19.mofpwoue"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://assets.aboutamazon.com/44/a0/91a8f83f40f99fae328157259c30/epix-relaunch-mgm-plus-new-shows-and-movies.jpg"
+      },
+      {
+        "id": "folder-5f7c9b73",
+        "title": "Pixar Movies and Shorts",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "community.aiocatalogs.308d4bc3-ca08-4a98-bcba-19168068693d",
+            "provider": "addon",
+            "catalogId": "mdblist_83285_mdblist_83285"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "https://i.postimg.cc/Y98SHC14/Pixar.jpg",
+        "focusGifUrl": "https://s13.gifyu.com/images/bqmqT.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://i.imgur.com/qX7LBmF.png",
+        "coverImageUrl": "https://i.postimg.cc/Y98SHC14/Pixar.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.aiocatalogs.308d4bc3-ca08-4a98-bcba-19168068693d",
+            "catalogId": "mdblist_83285_mdblist_83285"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://nuvioapp.space/uploads/covers/5440db5f-be91-4941-b1ba-4b4ea07b0f25.jpg"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "backdropImageUrl": "",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-4089b0b4",
+    "title": "Kids Movies and Shows",
+    "folders": [
+      {
+        "id": "folder-f757a2ec",
+        "title": "Kids &  Family",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "community.aiocatalogs.308d4bc3-ca08-4a98-bcba-19168068693d",
+            "provider": "addon",
+            "catalogId": "mdblist_13523_mdblist_13523"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "community.aiocatalogs.308d4bc3-ca08-4a98-bcba-19168068693d",
+            "provider": "addon",
+            "catalogId": "mdblist_6105_mdblist_6105"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "https://i.postimg.cc/QNPzD67b/1778007612307.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/kids-wide.png",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://i.postimg.cc/QNPzD67b/1778007612307.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/kids-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.aiocatalogs.308d4bc3-ca08-4a98-bcba-19168068693d",
+            "catalogId": "mdblist_13523_mdblist_13523"
+          },
+          {
+            "type": "series",
+            "addonId": "community.aiocatalogs.308d4bc3-ca08-4a98-bcba-19168068693d",
+            "catalogId": "mdblist_6105_mdblist_6105"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/QNPzD67b/1778007612307.png"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collections-studios-community",
+    "title": "🏰 Studios",
+    "folders": [
+      {
+        "id": "collections.studios.dc",
+        "title": "DC",
+        "sources": [
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "8a0e3b0.dc-movies"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "8a0e3b0.dc-series"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "8a0e3b0.dc-superman-animations"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "8a0e3b0.dceu_movies"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "8a0e3b0.dc-chronological"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "8a0e3b0.dc-release"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "8a0e3b0.dc-animations"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "8a0e3b0.dc-batman-animations"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "8a0e3b0.dc-superman-animations"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "8a0e3b0.dc-batman"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "8a0e3b0.dc-superman"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🏰",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/focused/dc.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/title/dc.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/cover/dc.png",
+        "catalogSources": [
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "8a0e3b0.dc-movies"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "8a0e3b0.dc-series"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "8a0e3b0.dc-superman-animations"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "8a0e3b0.dceu_movies"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "8a0e3b0.dc-chronological"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "8a0e3b0.dc-release"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "8a0e3b0.dc-animations"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "8a0e3b0.dc-batman-animations"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "8a0e3b0.dc-superman-animations"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "8a0e3b0.dc-batman"
+          },
+          {
+            "type": "DC",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "8a0e3b0.dc-superman"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/backdrop/dc.jpg"
+      },
+      {
+        "id": "collections.studios.marvel",
+        "title": "Marvel",
+        "sources": [
+          {
+            "type": "Marvel",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "213e3b0.movies"
+          },
+          {
+            "type": "Marvel",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "213e3b0.xmen"
+          },
+          {
+            "type": "Marvel",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "213e3b0.marvel-mcu"
+          },
+          {
+            "type": "Marvel",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "provider": "addon",
+            "catalogId": "213e3b0.series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🏰",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/focused/marvel.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/title/marvel.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/cover/marvel.png",
+        "catalogSources": [
+          {
+            "type": "Marvel",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "213e3b0.movies"
+          },
+          {
+            "type": "Marvel",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "213e3b0.xmen"
+          },
+          {
+            "type": "Marvel",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "213e3b0.marvel-mcu"
+          },
+          {
+            "type": "Marvel",
+            "genre": "",
+            "addonId": "samiam23-aiostreams.elfhosted.cc.2759b9c2-c79",
+            "catalogId": "213e3b0.series"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/studios/backdrop/marvel.jpg"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "backdropImageUrl": "",
+    "focusGlowEnabled": true
+  }
+]
