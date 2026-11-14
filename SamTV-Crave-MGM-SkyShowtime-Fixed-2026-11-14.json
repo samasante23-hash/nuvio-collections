@@ -795,12 +795,9 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://images.squarespace-cdn.com/content/v1/58a89931be6594a0841bca85/1580415074538-EQ2LUV5NJB86UVKEWRYQ/Crave-Logo-AppIcon-Animation.gif",
-        "heroVideoUrl": "https://images.squarespace-cdn.com/content/v1/58a89931be6594a0841bca85/1580415074538-EQ2LUV5NJB86UVKEWRYQ/Crave-Logo-AppIcon-Animation.gif",
-        "titleLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg",
-        "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg",
-        "focusGifEnabled": true,
-        "heroBackdropUrl": "https://images.squarespace-cdn.com/content/v1/58a89931be6594a0841bca85/1580493537294-D1RZT24K1DEH3WHZD53M/Crave-Rebrand-All-New.gif",
+        "titleLogoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/960px-Crave_2018_logo.svg.png",
+        "coverImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/960px-Crave_2018_logo.svg.png",
+        "focusGifEnabled": false,
         "catalogSources": [
           {
             "type": "movie",
