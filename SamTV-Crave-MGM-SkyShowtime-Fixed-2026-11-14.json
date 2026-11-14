@@ -795,8 +795,8 @@
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "titleLogoUrl": "https://support.bell.ca/Styles/media/Support/Television/img/crave_app.png",
-        "coverImageUrl": "https://support.bell.ca/Styles/media/Support/Television/img/crave_app.png",
+        "titleLogoUrl": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2021/06/crave-logo-white-2025.png?fit=clip&w=480&fm=png&q=90",
+        "coverImageUrl": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2021/06/crave-logo-white-2025.png?fit=fill&fill=151A2E&w=640&h=360&fm=png&q=90",
         "focusGifEnabled": true,
         "catalogSources": [
           {
@@ -897,11 +897,11 @@
             "genre": "None"
           }
         ],
-        "hideTitle": true,
+        "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "focusGifEnabled": true,
-        "coverImageUrl": "https://dl.memuplay.com/new_market/img/com.skyshowtime.skyshowtime.google.icon.2025-01-14-16-16-21.png",
-        "titleLogoUrl": "https://dl.memuplay.com/new_market/img/com.skyshowtime.skyshowtime.google.icon.2025-01-14-16-16-21.png",
+        "coverImageUrl": "https://brandlogos.sgp1.digitaloceanspaces.com/png/cbi/sky-showtime-400.png",
+        "titleLogoUrl": "https://brandlogos.sgp1.digitaloceanspaces.com/png/cbi/sky-showtime-400.png",
         "focusGifUrl": "https://media.giphy.com/media/TrkeEo38E8wBTMWsHH/giphy.gif"
       },
       {
