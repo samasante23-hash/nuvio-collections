@@ -1015,6 +1015,27 @@
             "catalogId": "tmdb.discover.series.kalel-lifetime-latest",
             "genre": "None",
             "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-lifetime-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.kalel-lifetime-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-lifetime-top",
+            "genre": "None",
+            "provider": "addon"
           }
         ],
         "catalogSources": [
@@ -1028,6 +1049,24 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.kalel-lifetime-latest",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-lifetime-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.kalel-lifetime-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-lifetime-top",
             "genre": "None"
           }
         ],
@@ -1056,6 +1095,34 @@
             "catalogId": "tmdb.discover.series.kalel-tubi-latest",
             "genre": "None",
             "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-tubi-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.kalel-tubi-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-tubi-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.kalel-tubi-top",
+            "genre": "None",
+            "provider": "addon"
           }
         ],
         "catalogSources": [
@@ -1069,6 +1136,30 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.kalel-tubi-latest",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-tubi-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.kalel-tubi-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-tubi-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.kalel-tubi-top",
             "genre": "None"
           }
         ],
