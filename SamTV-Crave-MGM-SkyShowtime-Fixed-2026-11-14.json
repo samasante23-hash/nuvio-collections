@@ -1009,7 +1009,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.vesper-digital-releases-2026",
+            "catalogId": "mdblist.134864",
             "provider": "addon",
             "genre": "None"
           }
@@ -1025,7 +1025,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.vesper-digital-releases-2026",
+            "catalogId": "mdblist.134864",
             "genre": "None"
           }
         ],
@@ -1039,7 +1039,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.vesper-upcoming-releases-2026",
+            "catalogId": "custom.com_dracid_lists_cfg.movie.upcoming_movies",
             "provider": "addon",
             "genre": "None"
           }
@@ -1055,7 +1055,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.vesper-upcoming-releases-2026",
+            "catalogId": "custom.com_dracid_lists_cfg.movie.upcoming_movies",
             "genre": "None"
           }
         ],
