@@ -793,11 +793,11 @@
             "genre": ""
           }
         ],
-        "hideTitle": false,
+        "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "titleLogoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/960px-Crave_2018_logo.svg.png",
-        "coverImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/960px-Crave_2018_logo.svg.png",
-        "focusGifEnabled": false,
+        "titleLogoUrl": "https://support.bell.ca/Styles/media/Support/Television/img/crave_app.png",
+        "coverImageUrl": "https://support.bell.ca/Styles/media/Support/Television/img/crave_app.png",
+        "focusGifEnabled": true,
         "catalogSources": [
           {
             "type": "movie",
@@ -809,7 +809,8 @@
             "addonId": "aio-metadata",
             "catalogId": "streaming.crv"
           }
-        ]
+        ],
+        "focusGifUrl": "https://images.squarespace-cdn.com/content/v1/58a89931be6594a0841bca85/1580415074538-EQ2LUV5NJB86UVKEWRYQ/Crave-Logo-AppIcon-Animation.gif"
       },
       {
         "id": "collections.kalel-streaming.skyshowtime",
@@ -896,11 +897,12 @@
             "genre": "None"
           }
         ],
-        "hideTitle": false,
+        "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "focusGifEnabled": false,
-        "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/SkyShowtime_Logo.svg?width=640",
-        "titleLogoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/SkyShowtime_Logo.svg?width=640"
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://dl.memuplay.com/new_market/img/com.skyshowtime.skyshowtime.google.icon.2025-01-14-16-16-21.png",
+        "titleLogoUrl": "https://dl.memuplay.com/new_market/img/com.skyshowtime.skyshowtime.google.icon.2025-01-14-16-16-21.png",
+        "focusGifUrl": "https://media.giphy.com/media/TrkeEo38E8wBTMWsHH/giphy.gif"
       },
       {
         "id": "collections.kalel-streaming.mgmplus",
@@ -987,11 +989,12 @@
             "genre": "None"
           }
         ],
-        "hideTitle": false,
+        "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "focusGifEnabled": false,
-        "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/MGM%2B_logo.svg?width=640",
-        "titleLogoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/MGM%2B_logo.svg?width=640"
+        "focusGifEnabled": true,
+        "coverImageUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/d490e713.webp",
+        "titleLogoUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/27431cd7.webp",
+        "focusGifUrl": "https://64.media.tumblr.com/9f43b185411e18d71444c9a5a5a79632/5d68ae94e9917470-70/s500x750/0871e87c17045759735ef64c26703c71b585bfb0.gifv"
       }
     ]
   },
