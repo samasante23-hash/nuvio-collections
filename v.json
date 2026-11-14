@@ -1072,12 +1072,12 @@
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
-        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/lifetime-focus-2026.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/lifetime-card-2026.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/lifetime-focus-fit-2026.gif",
         "focusGifEnabled": true,
         "titleLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",
-        "heroVideoUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/lifetime-focus-2026.gif"
+        "heroVideoUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/lifetime-focus-fit-2026.gif"
       },
       {
         "id": "collections.kalel-streaming.tubi",
@@ -1166,12 +1166,12 @@
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tubi_logo_2024.svg/960px-Tubi_logo_2024.svg.png",
-        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/tubi-focus-2026.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/tubi-card-2026.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/tubi-focus-fit-2026.gif",
         "focusGifEnabled": true,
         "titleLogoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tubi_logo_2024.svg/960px-Tubi_logo_2024.svg.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/tubi-card-v7.png",
-        "heroVideoUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/tubi-focus-2026.gif"
+        "heroVideoUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/tubi-focus-fit-2026.gif"
       }
     ]
   },
