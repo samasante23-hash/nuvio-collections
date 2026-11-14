@@ -10,20 +10,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-netflix-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-netflix-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-netflix-new",
             "genre": "None",
             "provider": "addon"
@@ -32,6 +18,20 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-netflix-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-netflix-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-netflix-popular",
             "genre": "None",
             "provider": "addon"
           },
@@ -63,18 +63,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-netflix-popular",
-            "genre": "None"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-netflix-popular",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-netflix-new",
             "genre": "None"
           },
@@ -82,6 +70,18 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-netflix-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-netflix-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-netflix-popular",
             "genre": "None"
           },
           {
@@ -105,20 +105,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-disney-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-disney-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-disney-new",
             "genre": "None",
             "provider": "addon"
@@ -127,6 +113,20 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-disney-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-disney-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-disney-popular",
             "genre": "None",
             "provider": "addon"
           },
@@ -158,18 +158,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-disney-popular",
-            "genre": "None"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-disney-popular",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-disney-new",
             "genre": "None"
           },
@@ -177,6 +165,18 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-disney-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-disney-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-disney-popular",
             "genre": "None"
           },
           {
@@ -197,6 +197,13 @@
         "id": "collections.nox-streaming.prime-video",
         "title": "Prime Video",
         "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-prime-new",
+            "genre": "None",
+            "provider": "addon"
+          },
           {
             "type": "movie",
             "addonId": "aio-metadata",
@@ -226,13 +233,6 @@
             "provider": "addon"
           },
           {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-prime-new",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
             "type": "movie",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-prime-top",
@@ -258,14 +258,22 @@
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/prime-video.jpg",
         "catalogSources": [
           {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-prime-new",
+            "genre": "None"
+          },
+          {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.streaming_prime_video_9_3.mofpwoue"
+            "catalogId": "tmdb.discover.movie.streaming_prime_video_9_3.mofpwoue",
+            "genre": ""
           },
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.streaming_prime_video_9_3.mofpwoue"
+            "catalogId": "tmdb.discover.series.streaming_prime_video_9_3.mofpwoue",
+            "genre": ""
           },
           {
             "type": "movie",
@@ -277,12 +285,6 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-prime-popular",
-            "genre": "None"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-prime-new",
             "genre": "None"
           },
           {
@@ -306,20 +308,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-apple-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-apple-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-apple-new",
             "genre": "None",
             "provider": "addon"
@@ -328,6 +316,20 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-apple-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-apple-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-apple-popular",
             "genre": "None",
             "provider": "addon"
           },
@@ -359,18 +361,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-apple-popular",
-            "genre": "None"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-apple-popular",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-apple-new",
             "genre": "None"
           },
@@ -378,6 +368,18 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-apple-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-apple-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-apple-popular",
             "genre": "None"
           },
           {
@@ -401,20 +403,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-max-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-max-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-max-new",
             "genre": "None",
             "provider": "addon"
@@ -423,6 +411,20 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-max-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-max-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-max-popular",
             "genre": "None",
             "provider": "addon"
           },
@@ -454,18 +456,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-max-popular",
-            "genre": "None"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-max-popular",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-max-new",
             "genre": "None"
           },
@@ -473,6 +463,18 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-max-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-max-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-max-popular",
             "genre": "None"
           },
           {
@@ -496,20 +498,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-hulu-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-hulu-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-hulu-new",
             "genre": "None",
             "provider": "addon"
@@ -518,6 +506,20 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-hulu-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-hulu-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-hulu-popular",
             "genre": "None",
             "provider": "addon"
           },
@@ -549,18 +551,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-hulu-popular",
-            "genre": "None"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-hulu-popular",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-hulu-new",
             "genre": "None"
           },
@@ -568,6 +558,18 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-hulu-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-hulu-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-hulu-popular",
             "genre": "None"
           },
           {
@@ -591,20 +593,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-paramount-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-paramount-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-paramount-new",
             "genre": "None",
             "provider": "addon"
@@ -613,6 +601,20 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-paramount-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-paramount-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-paramount-popular",
             "genre": "None",
             "provider": "addon"
           },
@@ -644,18 +646,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-paramount-popular",
-            "genre": "None"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-paramount-popular",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-paramount-new",
             "genre": "None"
           },
@@ -663,6 +653,18 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-paramount-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-paramount-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-paramount-popular",
             "genre": "None"
           },
           {
@@ -686,20 +688,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-peacock-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-peacock-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-peacock-new",
             "genre": "None",
             "provider": "addon"
@@ -708,6 +696,20 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-peacock-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-peacock-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-peacock-popular",
             "genre": "None",
             "provider": "addon"
           },
@@ -739,18 +741,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-peacock-popular",
-            "genre": "None"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-peacock-popular",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-peacock-new",
             "genre": "None"
           },
@@ -758,6 +748,18 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-peacock-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-peacock-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-peacock-popular",
             "genre": "None"
           },
           {
@@ -793,10 +795,10 @@
             "genre": ""
           }
         ],
-        "hideTitle": true,
+        "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "titleLogoUrl": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2021/06/crave-logo-white-2025.png?fit=clip&w=480&fm=png&q=90",
-        "coverImageUrl": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2021/06/crave-logo-white-2025.png?fit=fill&fill=151A2E&w=640&h=360&fm=png&q=90",
+        "titleLogoUrl": "https://images.squarespace-cdn.com/content/v1/5761ae624d088e37d161c50f/a76aae1e-f2a8-45f8-be46-133d23d948fd/CRAVE%2Bon%2Bblack.png",
+        "coverImageUrl": "https://images.squarespace-cdn.com/content/v1/5761ae624d088e37d161c50f/a76aae1e-f2a8-45f8-be46-133d23d948fd/CRAVE%2Bon%2Bblack.png",
         "focusGifEnabled": true,
         "catalogSources": [
           {
@@ -824,20 +826,6 @@
             "provider": "addon"
           },
           {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "streaming.sst.kalel-popular-movie",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "streaming.sst.kalel-top-movie",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "streaming.sst",
@@ -845,9 +833,23 @@
             "provider": "addon"
           },
           {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst.kalel-popular-movie",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "streaming.sst.kalel-popular-series",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst.kalel-top-movie",
             "genre": "None",
             "provider": "addon"
           },
@@ -867,27 +869,27 @@
             "genre": "None"
           },
           {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "streaming.sst.kalel-popular-movie",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "streaming.sst.kalel-top-movie",
-            "genre": "None"
-          },
-          {
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "streaming.sst",
             "genre": "None"
           },
           {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst.kalel-popular-movie",
+            "genre": "None"
+          },
+          {
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "streaming.sst.kalel-popular-series",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst.kalel-top-movie",
             "genre": "None"
           },
           {
@@ -900,7 +902,7 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "focusGifEnabled": true,
-        "coverImageUrl": "https://brandlogos.sgp1.digitaloceanspaces.com/png/cbi/sky-showtime-400.png",
+        "coverImageUrl": "https://media.giphy.com/media/TrkeEo38E8wBTMWsHH/giphy.gif",
         "titleLogoUrl": "https://brandlogos.sgp1.digitaloceanspaces.com/png/cbi/sky-showtime-400.png",
         "focusGifUrl": "https://media.giphy.com/media/TrkeEo38E8wBTMWsHH/giphy.gif"
       },
@@ -916,20 +918,6 @@
             "provider": "addon"
           },
           {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.kalel-mgm-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.kalel-mgm-top",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.streaming_mgm_plus_34_19.mofpwoue",
@@ -937,9 +925,23 @@
             "provider": "addon"
           },
           {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-mgm-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.kalel-mgm-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-mgm-top",
             "genre": "None",
             "provider": "addon"
           },
@@ -959,27 +961,27 @@
             "genre": "None"
           },
           {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.kalel-mgm-popular",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.kalel-mgm-top",
-            "genre": "None"
-          },
-          {
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.streaming_mgm_plus_34_19.mofpwoue",
             "genre": "None"
           },
           {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-mgm-popular",
+            "genre": "None"
+          },
+          {
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.kalel-mgm-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-mgm-top",
             "genre": "None"
           },
           {
@@ -2257,16 +2259,16 @@
             "provider": "addon"
           },
           {
-            "type": "movie",
+            "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-popular",
+            "catalogId": "tmdb.discover.series.samtv-dc-universe-popular",
             "genre": "None",
             "provider": "addon"
           },
           {
-            "type": "series",
+            "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-dc-universe-popular",
+            "catalogId": "tmdb.discover.movie.samtv-dc-movies-popular",
             "genre": "None",
             "provider": "addon"
           },
@@ -2363,15 +2365,15 @@
             "genre": "None"
           },
           {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-popular",
-            "genre": "None"
-          },
-          {
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-dc-universe-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-dc-movies-popular",
             "genre": "None"
           },
           {
@@ -2467,16 +2469,16 @@
             "provider": "addon"
           },
           {
-            "type": "movie",
+            "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "custom.de_marvel_katalog.movie.marvel_movies",
+            "catalogId": "custom.de_marvel_katalog.series.marvel_series",
             "genre": "",
             "provider": "addon"
           },
           {
-            "type": "series",
+            "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "custom.de_marvel_katalog.series.marvel_series",
+            "catalogId": "custom.de_marvel_katalog.movie.marvel_movies",
             "genre": "",
             "provider": "addon"
           },
@@ -2531,15 +2533,15 @@
             "genre": "None"
           },
           {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.de_marvel_katalog.movie.marvel_movies",
-            "genre": ""
-          },
-          {
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "custom.de_marvel_katalog.series.marvel_series",
+            "genre": ""
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.de_marvel_katalog.movie.marvel_movies",
             "genre": ""
           },
           {
