@@ -1004,32 +1004,30 @@
     "folders": [
       {
         "id": "collections.movie-releases.digital",
-        "title": "Digital Releases",
+        "title": "Latest Movies",
         "sources": [
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.134864",
+            "catalogId": "tmdb.discover.movie.vesper-digital-releases-2026",
             "provider": "addon",
             "genre": "None"
           }
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "coverEmoji": "",
-        "focusGifUrl": "https://i.postimg.cc/NK3tJHJ7/samtv-digital-releases.gif",
-        "heroVideoUrl": "",
+        "focusGifUrl": "",
         "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/new_latest.latest_digital_releases.logo.webp?v=7",
         "coverImageUrl": "https://cdn.xperience-app.com/covers/dynamic_showcase/new_latest.latest_digital_releases.webp?v=20260927",
         "catalogSources": [
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.134864",
+            "catalogId": "tmdb.discover.movie.vesper-digital-releases-2026",
             "genre": "None"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.xperience-app.com/covers/dynamic_showcase/new_latest.latest_digital_releases.backdrop.webp?v=20260927"
       },
       {
@@ -1039,27 +1037,25 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "custom.com_dracid_lists_cfg.movie.upcoming_movies",
+            "catalogId": "tmdb.discover.movie.vesper-upcoming-releases-2026",
             "provider": "addon",
             "genre": "None"
           }
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "coverEmoji": "",
-        "focusGifUrl": "https://i.postimg.cc/18kSCqCH/samtv-upcoming-movies.gif",
-        "heroVideoUrl": "",
+        "focusGifUrl": "",
         "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/new_latest.upcoming_movies.logo.webp?v=7",
         "coverImageUrl": "https://cdn.xperience-app.com/covers/dynamic_showcase/new_latest.upcoming_movies.webp?v=20260927",
         "catalogSources": [
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "custom.com_dracid_lists_cfg.movie.upcoming_movies",
+            "catalogId": "tmdb.discover.movie.vesper-upcoming-releases-2026",
             "genre": "None"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.xperience-app.com/covers/dynamic_showcase/new_latest.upcoming_movies.backdrop.webp?v=20260927"
       }
     ]
