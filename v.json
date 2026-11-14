@@ -1074,10 +1074,10 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tubi_2024_logo.png",
+        "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Tubi_2024_logo.png",
         "focusGifUrl": "",
         "focusGifEnabled": false,
-        "titleLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tubi_2024_logo.png",
+        "titleLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Tubi_2024_logo.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/tubi-focus.gif"
       }
     ]
