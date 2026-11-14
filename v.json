@@ -1070,14 +1070,14 @@
             "genre": "None"
           }
         ],
-        "hideTitle": false,
+        "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
-        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/lifetime-focus-v8.gif",
+        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/lifetime-focus-2026.gif",
         "focusGifEnabled": true,
         "titleLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",
-        "heroVideoUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/lifetime-focus-v8.gif"
+        "heroVideoUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/lifetime-focus-2026.gif"
       },
       {
         "id": "collections.kalel-streaming.tubi",
