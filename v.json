@@ -1164,14 +1164,14 @@
             "genre": "None"
           }
         ],
-        "hideTitle": false,
+        "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tubi_logo_2024.svg/960px-Tubi_logo_2024.svg.png",
-        "focusGifUrl": "https://media.giphy.com/media/s9L3J5JoXUVBgV4DOy/giphy.gif",
+        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/tubi-focus-2026.gif",
         "focusGifEnabled": true,
         "titleLogoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tubi_logo_2024.svg/960px-Tubi_logo_2024.svg.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/tubi-card-v7.png",
-        "heroVideoUrl": "https://media.giphy.com/media/s9L3J5JoXUVBgV4DOy/giphy.gif"
+        "heroVideoUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/tubi-focus-2026.gif"
       }
     ]
   },
