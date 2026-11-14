@@ -797,8 +797,8 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "titleLogoUrl": "https://images.squarespace-cdn.com/content/v1/5761ae624d088e37d161c50f/a76aae1e-f2a8-45f8-be46-133d23d948fd/CRAVE%2Bon%2Bblack.png",
-        "coverImageUrl": "https://images.squarespace-cdn.com/content/v1/5761ae624d088e37d161c50f/a76aae1e-f2a8-45f8-be46-133d23d948fd/CRAVE%2Bon%2Bblack.png",
+        "titleLogoUrl": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2021/06/crave-logo-white-2025.png?fit=clip&w=480&fm=png&q=90",
+        "coverImageUrl": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2021/06/crave-logo-white-2025.png?fit=fill&fill=151A2E&w=640&h=360&fm=png&q=90",
         "focusGifEnabled": true,
         "catalogSources": [
           {
@@ -902,7 +902,7 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "focusGifEnabled": true,
-        "coverImageUrl": "https://media.giphy.com/media/TrkeEo38E8wBTMWsHH/giphy.gif",
+        "coverImageUrl": "https://brandlogos.sgp1.digitaloceanspaces.com/png/cbi/sky-showtime-400.png",
         "titleLogoUrl": "https://brandlogos.sgp1.digitaloceanspaces.com/png/cbi/sky-showtime-400.png",
         "focusGifUrl": "https://media.giphy.com/media/TrkeEo38E8wBTMWsHH/giphy.gif"
       },
@@ -1033,10 +1033,10 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/lifetime-focus.gif",
-        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/lifetime-focus.gif",
-        "focusGifEnabled": true,
-        "titleLogoUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/lifetime-logo.png",
+        "coverImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+        "focusGifUrl": "",
+        "focusGifEnabled": false,
+        "titleLogoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/lifetime-focus.gif"
       },
       {
@@ -1074,10 +1074,10 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/tubi-focus.gif",
-        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/tubi-focus.gif",
-        "focusGifEnabled": true,
-        "titleLogoUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/tubi-logo.png",
+        "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tubi_2024_logo.png",
+        "focusGifUrl": "",
+        "focusGifEnabled": false,
+        "titleLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tubi_2024_logo.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/tubi-focus.gif"
       }
     ]
