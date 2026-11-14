@@ -1,0 +1,2466 @@
+[
+  {
+    "id": "collections-streaming-nox",
+    "title": "Streaming",
+    "folders": [
+      {
+        "id": "collections.nox-streaming.netflix",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-netflix-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-netflix-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-netflix-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-netflix-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-netflix-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-netflix-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://i.pinimg.com/originals/bb/74/04/bb74046420c4c992b8cabc6e667abe40.gif",
+        "heroVideoUrl": "https://i.pinimg.com/originals/bb/74/04/bb74046420c4c992b8cabc6e667abe40.gif",
+        "titleLogoUrl": "https://i.postimg.cc/7LbyMFCs/Netflix_white.png",
+        "coverImageUrl": "https://i.postimg.cc/7LbyMFCs/Netflix_white.png",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/netflix.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-netflix-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-netflix-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-netflix-new",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-netflix-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-netflix-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-netflix-top",
+            "genre": "None"
+          }
+        ]
+      },
+      {
+        "id": "collections.nox-streaming.disney-plus",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-disney-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-disney-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-disney-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-disney-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-disney-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-disney-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/disney-plus.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/disney-plus.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/disney-plus.png",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/disney-plus.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-disney-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-disney-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-disney-new",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-disney-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-disney-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-disney-top",
+            "genre": "None"
+          }
+        ]
+      },
+      {
+        "id": "collections.nox-streaming.prime-video",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.streaming_prime_video_9_3.mofpwoue",
+            "provider": "addon",
+            "genre": ""
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.streaming_prime_video_9_3.mofpwoue",
+            "provider": "addon",
+            "genre": ""
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-prime-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-prime-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-prime-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-prime-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-prime-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/prime-video.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/prime-video.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/prime-video.png",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/prime-video.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.streaming_prime_video_9_3.mofpwoue"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.streaming_prime_video_9_3.mofpwoue"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-prime-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-prime-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-prime-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-prime-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-prime-top",
+            "genre": "None"
+          }
+        ]
+      },
+      {
+        "id": "collections.nox-streaming.apple-tv",
+        "title": "Apple TV+",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-apple-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-apple-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-apple-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-apple-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-apple-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-apple-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/apple-tv.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/apple-tv.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/apple-tv.png",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/apple-tv.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-apple-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-apple-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-apple-new",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-apple-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-apple-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-apple-top",
+            "genre": "None"
+          }
+        ]
+      },
+      {
+        "id": "collections.nox-streaming.hbo-max",
+        "title": "HBO Max",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-max-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-max-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-max-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-max-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-max-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-max-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/hbo-max.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/hbo-max.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/hbo-max.png",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/hbo-max.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-max-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-max-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-max-new",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-max-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-max-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-max-top",
+            "genre": "None"
+          }
+        ]
+      },
+      {
+        "id": "collections.nox-streaming.hulu",
+        "title": "Hulu",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-hulu-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-hulu-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-hulu-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-hulu-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-hulu-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-hulu-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/hulu.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/hulu.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/hulu.png",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/hulu.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-hulu-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-hulu-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-hulu-new",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-hulu-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-hulu-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-hulu-top",
+            "genre": "None"
+          }
+        ]
+      },
+      {
+        "id": "collections.nox-streaming.paramount-plus",
+        "title": "Paramount+",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-paramount-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-paramount-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-paramount-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-paramount-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-paramount-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-paramount-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/paramount-plus.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/paramount-plus.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/paramount-plus.png",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/paramount-plus.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-paramount-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-paramount-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-paramount-new",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-paramount-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-paramount-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-paramount-top",
+            "genre": "None"
+          }
+        ]
+      },
+      {
+        "id": "collections.nox-streaming.peacock",
+        "title": "Peacock",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-peacock-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-peacock-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-peacock-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-peacock-new",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-peacock-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-peacock-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "🎬",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/peacock.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/peacock.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/peacock.png",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/peacock.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-peacock-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-peacock-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-peacock-new",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-peacock-new",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-peacock-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-peacock-top",
+            "genre": "None"
+          }
+        ]
+      },
+      {
+        "id": "collections.samtv-streaming.crave",
+        "title": "Crave",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.crv",
+            "provider": "addon",
+            "genre": ""
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.crv",
+            "provider": "addon",
+            "genre": ""
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://images.squarespace-cdn.com/content/v1/58a89931be6594a0841bca85/1580415074538-EQ2LUV5NJB86UVKEWRYQ/Crave-Logo-AppIcon-Animation.gif",
+        "heroVideoUrl": "https://images.squarespace-cdn.com/content/v1/58a89931be6594a0841bca85/1580415074538-EQ2LUV5NJB86UVKEWRYQ/Crave-Logo-AppIcon-Animation.gif",
+        "titleLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg",
+        "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg",
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://images.squarespace-cdn.com/content/v1/58a89931be6594a0841bca85/1580493537294-D1RZT24K1DEH3WHZD53M/Crave-Rebrand-All-New.gif",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.crv"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.crv"
+          }
+        ]
+      },
+      {
+        "id": "collections.kalel-streaming.skyshowtime",
+        "title": "SkyShowtime",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst.kalel-popular-movie",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst.kalel-top-movie",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst.kalel-popular-series",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst.kalel-top-series",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst.kalel-popular-movie",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst.kalel-top-movie",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst.kalel-popular-series",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sst.kalel-top-series",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifEnabled": false,
+        "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/SkyShowtime_Logo.svg?width=640",
+        "titleLogoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/SkyShowtime_Logo.svg?width=640"
+      },
+      {
+        "id": "collections.kalel-streaming.mgmplus",
+        "title": "MGM+",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.streaming_mgm_plus_34_19.mofpwoue",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-mgm-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-mgm-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.streaming_mgm_plus_34_19.mofpwoue",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.kalel-mgm-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.kalel-mgm-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.streaming_mgm_plus_34_19.mofpwoue",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-mgm-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.kalel-mgm-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.streaming_mgm_plus_34_19.mofpwoue",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.kalel-mgm-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.kalel-mgm-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifEnabled": false,
+        "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/MGM%2B_logo.svg?width=640",
+        "titleLogoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/MGM%2B_logo.svg?width=640"
+      }
+    ]
+  },
+  {
+    "id": "collections-movie-releases",
+    "title": "Movie Releases",
+    "folders": [
+      {
+        "id": "collections.movie-releases.digital",
+        "title": "Digital Releases",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-digital-current",
+            "provider": "addon",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://i.postimg.cc/NK3tJHJ7/samtv-digital-releases.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/new_latest.latest_digital_releases.logo.webp?v=7",
+        "coverImageUrl": "https://cdn.xperience-app.com/covers/dynamic_showcase/new_latest.latest_digital_releases.webp?v=20260927",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-digital-current",
+            "genre": "None"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.xperience-app.com/covers/dynamic_showcase/new_latest.latest_digital_releases.backdrop.webp?v=20260927"
+      },
+      {
+        "id": "collections.movie-releases.upcoming",
+        "title": "Upcoming Movies",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-upcoming-future",
+            "provider": "addon",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "https://i.postimg.cc/18kSCqCH/samtv-upcoming-movies.gif",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/new_latest.upcoming_movies.logo.webp?v=7",
+        "coverImageUrl": "https://cdn.xperience-app.com/covers/dynamic_showcase/new_latest.upcoming_movies.webp?v=20260927",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-upcoming-future",
+            "genre": "None"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://cdn.xperience-app.com/covers/dynamic_showcase/new_latest.upcoming_movies.backdrop.webp?v=20260927"
+      }
+    ]
+  },
+  {
+    "id": "collections-genres-nox",
+    "title": "Genres",
+    "folders": [
+      {
+        "id": "collections.nox-genres.action",
+        "title": "Action",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-action-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-action-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-action-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-action-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-action-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-action-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-action-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-action-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Action/Action_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/action.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.animation",
+        "title": "Animation",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-animation-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-animation-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-animation-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-animation-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-animation-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-animation-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-animation-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-animation-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Animation/Animation_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/animation.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.anime",
+        "title": "Anime",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-anime-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-anime-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-anime-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-anime-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-anime-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-anime-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-anime-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-anime-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Anime/Anime_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/anime.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.comedy",
+        "title": "Comedy",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-comedy-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-comedy-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-comedy-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-comedy-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-comedy-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-comedy-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-comedy-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-comedy-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Comedy/Comedy_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/comedy.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.crime",
+        "title": "Crime",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-crime-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-crime-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-crime-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-crime-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-crime-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-crime-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-crime-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-crime-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Crime/Crime_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/crime.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.documentary",
+        "title": "Documentary",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-documentary-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-documentary-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-documentary-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-documentary-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-documentary-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-documentary-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-documentary-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-documentary-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Documentary/Documentary_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/documentary.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.drama",
+        "title": "Drama",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-drama-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-drama-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-drama-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-drama-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-drama-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-drama-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-drama-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-drama-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Drama/Drama_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/drama.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.family",
+        "title": "Family",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-family-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-family-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-family-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-family-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-family-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-family-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-family-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-family-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Family/Family_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/family.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.history",
+        "title": "History",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-history-popular",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-history-popular",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/History/History_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/history.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.horror",
+        "title": "Horror",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-horror-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-horror-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-horror-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-horror-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Horror/Horror_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/horror.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.mystery",
+        "title": "Mystery",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-mystery-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-mystery-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-mystery-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-mystery-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-mystery-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-mystery-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-mystery-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-mystery-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Mystery/Mystery_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/mystery.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.nature",
+        "title": "Nature",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-nature-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-nature-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-nature-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-nature-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-nature-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-nature-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-nature-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-nature-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Nature%2C%20Wildlife%20%26%20Earth/Nature%2C%20Wildlife%20%26%20Earth_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/documentary.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.reality",
+        "title": "Reality",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-reality-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-reality-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-reality-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-reality-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Reality%20TV/Reality_TV_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/reality.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.romance",
+        "title": "Romance",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-romance-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-romance-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-romance-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-romance-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Romance/Romance_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/romance.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.sci-fi",
+        "title": "Sci-Fi",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-sci-fi-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-sci-fi-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-sci-fi-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-sci-fi-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-sci-fi-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-sci-fi-top",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-sci-fi-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-sci-fi-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Science%20Fiction/Science_Fiction_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/themes/focused/space.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-genres.thriller",
+        "title": "Thriller",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-thriller-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-thriller-top",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-thriller-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-thriller-top",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/Genres/Thriller/Thriller_Base.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/thriller.gif",
+        "focusGifEnabled": true
+      }
+    ]
+  },
+  {
+    "id": "collections-decades-nox",
+    "title": "Decades",
+    "folders": [
+      {
+        "id": "collections.nox-decades.2020s",
+        "title": "2020s",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-decade-2020s-popular",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-decade-2020s-popular",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/decades/2020s/2020s-landscape.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/decades/2020s/2020s-landscape.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/decades/focused/2020s.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-decades.2010s",
+        "title": "2010s",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-decade-2010s-popular",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-decade-2010s-popular",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/decades/2010s/2010s-landscape.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/decades/2010s/2010s-landscape.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/decades/focused/2010s.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-decades.2000s",
+        "title": "2000s",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-decade-2000s-popular",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-decade-2000s-popular",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/decades/2000s/2000s-landscape.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/decades/2000s/2000s-landscape.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/decades/focused/2000s.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-decades.1990s",
+        "title": "1990s",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-decade-1990s-popular",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-decade-1990s-popular",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/decades/1990s/1990s-landscape.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/decades/1990s/1990s-landscape.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/decades/focused/1990s.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-decades.1980s",
+        "title": "1980s",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-decade-1980s-popular",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-decade-1980s-popular",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/decades/1980s/1980s-landscape.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/decades/1980s/1980s-landscape.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/decades/focused/1980s.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-decades.1970s",
+        "title": "1970s",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-decade-1970s-popular",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-decade-1970s-popular",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/decades/1970s/1970s-landscape.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/decades/1970s/1970s-landscape.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/decades/focused/1970s.gif",
+        "focusGifEnabled": true
+      }
+    ]
+  },
+  {
+    "id": "collections-themed-tv-nox",
+    "title": "TV Collections",
+    "folders": [
+      {
+        "id": "collections.nox-tv.spies",
+        "title": "Spies",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-spies-popular",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-spies-popular",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/genres/spies/spies-landscape.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/genres/spies/spies-landscape.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/themes/focused/spy.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-tv.robots-and-ai",
+        "title": "Robots and AI",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-robots-and-ai-popular",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-robots-and-ai-popular",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/genres/robots-and-ai/robots-and-ai-landscape.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/genres/robots-and-ai/robots-and-ai-landscape.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/themes/focused/space.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-tv.dc-universe",
+        "title": "DC Universe",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.list.8642250.movies",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.160000",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.100123",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159996",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.121646",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.142172",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.list.8642250.series",
+            "genre": "",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.list.8642250.movies",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.160000",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.100123",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159996",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.121646",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.142172",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.list.8642250.series",
+            "genre": "",
+            "provider": "addon"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/eb3ea02f.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/429-dc/logos/color/429_color_1.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/429-dc/backdrops/t2_flat_1080p.jpg",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/studios/focused/dc.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-tv.marvel",
+        "title": "Marvel",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159982",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159984",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-marvel-movies-latest",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-marvel-movies-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.141963",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-marvel-animated-movies",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.de_marvel_katalog.movie.marvel_movies",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.de_marvel_katalog.series.marvel_series",
+            "genre": "",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159982",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159984",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-marvel-movies-latest",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-marvel-movies-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.141963",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-marvel-animated-movies",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.de_marvel_katalog.movie.marvel_movies",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.de_marvel_katalog.series.marvel_series",
+            "genre": "",
+            "provider": "addon"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/67a54fdf.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/420-marvel-studios/logos/color/420_color_1.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/420-marvel-studios/backdrops/t2_flat_1080p.jpg",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/studios/focused/marvel.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.nox-tv.sherlock-holmes",
+        "title": "Sherlock Holmes",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-sherlock-holmes-popular",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-sherlock-holmes-popular",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/7adffe35.webp",
+        "heroBackdropUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/7adffe35.webp",
+        "titleLogoUrl": "https://image.tmdb.org/t/p/original/kZeHzQhlYhX8JThSQyTjb4j1eh6.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/genres/focused/mystery.gif",
+        "focusGifEnabled": true
+      }
+    ]
+  }
+]
