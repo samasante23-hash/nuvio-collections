@@ -2319,21 +2319,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-latest",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.list.8642250.movies",
-            "genre": "",
-            "provider": "addon"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.list.8642250.series",
             "genre": "",
             "provider": "addon"
           },
@@ -2342,27 +2328,6 @@
             "addonId": "aio-metadata",
             "catalogId": "mdblist.159996",
             "genre": "",
-            "provider": "addon"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159997",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-dc-universe-popular",
-            "genre": "None",
             "provider": "addon"
           },
           {
@@ -2375,7 +2340,21 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-dc-movies-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-dc-movies-top",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-dc-movies-latest",
             "genre": "None",
             "provider": "addon"
           },
@@ -2387,17 +2366,38 @@
             "provider": "addon"
           },
           {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-dc-animated-shows",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
             "type": "movie",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.121646",
             "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.list.8642250.series",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159997",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-dc-universe-popular",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-dc-animated-shows",
+            "genre": "None",
             "provider": "addon"
           },
           {
@@ -2412,19 +2412,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-latest",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "tmdb.list.8642250.movies",
-            "genre": ""
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.list.8642250.series",
             "genre": ""
           },
           {
@@ -2432,24 +2420,6 @@
             "addonId": "aio-metadata",
             "catalogId": "mdblist.159996",
             "genre": ""
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159997",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-popular",
-            "genre": "None"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-dc-universe-popular",
-            "genre": "None"
           },
           {
             "type": "movie",
@@ -2460,7 +2430,19 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-dc-movies-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-dc-movies-top",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-dc-movies-latest",
             "genre": "None"
           },
           {
@@ -2470,16 +2452,34 @@
             "genre": "None"
           },
           {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-dc-animated-shows",
-            "genre": "None"
-          },
-          {
             "type": "movie",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.121646",
             "genre": ""
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.list.8642250.series",
+            "genre": ""
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159997",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-dc-universe-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-dc-animated-shows",
+            "genre": "None"
           },
           {
             "type": "series",
