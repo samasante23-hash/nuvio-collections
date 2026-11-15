@@ -1195,7 +1195,7 @@
         "tileShape": "LANDSCAPE",
         "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-latest-digital-cinematic.gif",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-latest-digital-cinematic.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/19C31F1E-0E60-4CD7-B2CB-13F6065E848B.png",
         "catalogSources": [
           {
             "type": "movie",
@@ -1204,8 +1204,8 @@
             "genre": "None"
           }
         ],
-        "focusGifEnabled": true,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-latest-digital-hero-cinematic.png?v=textfree-20261114"
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/19C31F1E-0E60-4CD7-B2CB-13F6065E848B.png"
       },
       {
         "id": "collections.20261114-clean2.movie-releases.vespertv-upcoming-releases",
