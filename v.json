@@ -1181,7 +1181,7 @@
     "folders": [
       {
         "id": "collections.samtv-refresh-20261114.movie-releases.latest-movies",
-        "title": "Latest Movies",
+        "title": "VesperTV Latest Digital Releases",
         "sources": [
           {
             "type": "movie",
@@ -1209,7 +1209,7 @@
       },
       {
         "id": "collections.samtv-refresh-20261114.movie-releases.upcoming-movies",
-        "title": "Upcoming Movies",
+        "title": "VesperTV Upcoming Releases",
         "sources": [
           {
             "type": "movie",
