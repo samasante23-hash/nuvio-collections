@@ -1191,11 +1191,11 @@
             "genre": "None"
           }
         ],
-        "hideTitle": true,
+        "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "",
-        "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/new_latest.latest_digital_releases.logo.webp?v=7",
-        "coverImageUrl": "https://cdn.xperience-app.com/covers/dynamic_showcase/new_latest.latest_digital_releases.webp?v=20260927",
+        "focusGifUrl": "https://i.postimg.cc/NK3tJHJ7/samtv-digital-releases.gif",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/NK3tJHJ7/samtv-digital-releases.gif",
         "catalogSources": [
           {
             "type": "movie",
@@ -1204,8 +1204,8 @@
             "genre": "None"
           }
         ],
-        "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.xperience-app.com/covers/dynamic_showcase/new_latest.latest_digital_releases.backdrop.webp?v=20260927"
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/NK3tJHJ7/samtv-digital-releases.gif"
       },
       {
         "id": "collections.samtv-refresh-20261114.movie-releases.upcoming-movies",
@@ -1219,11 +1219,11 @@
             "genre": "None"
           }
         ],
-        "hideTitle": true,
+        "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "",
-        "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/new_latest.upcoming_movies.logo.webp?v=7",
-        "coverImageUrl": "https://cdn.xperience-app.com/covers/dynamic_showcase/new_latest.upcoming_movies.webp?v=20260927",
+        "focusGifUrl": "https://i.postimg.cc/18kSCqCH/samtv-upcoming-movies.gif",
+        "titleLogoUrl": "",
+        "coverImageUrl": "https://i.postimg.cc/18kSCqCH/samtv-upcoming-movies.gif",
         "catalogSources": [
           {
             "type": "movie",
@@ -1232,8 +1232,8 @@
             "genre": "None"
           }
         ],
-        "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.xperience-app.com/covers/dynamic_showcase/new_latest.upcoming_movies.backdrop.webp?v=20260927"
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/18kSCqCH/samtv-upcoming-movies.gif"
       }
     ]
   },
