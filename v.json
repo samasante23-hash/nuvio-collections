@@ -2314,13 +2314,13 @@
     "folders": [
       {
         "id": "collections.20261114-clean2.tv-collections.dc-universe",
-        "title": "DC Universe",
+        "title": "DC Studios",
         "sources": [
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-latest",
-            "genre": "None",
+            "catalogId": "mdblist.159999",
+            "genre": "",
             "provider": "addon"
           },
           {
@@ -2356,8 +2356,8 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-latest",
-            "genre": "None"
+            "catalogId": "mdblist.159999",
+            "genre": ""
           },
           {
             "type": "movie",
