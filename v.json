@@ -1221,9 +1221,9 @@
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-upcoming-cinematic.gif?v=space-premiere-2",
+        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/VesperTV_Upcoming_Releases_Option2.gif",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-upcoming-cinematic.gif?v=space-premiere-2",
+        "coverImageUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/VesperTV_Upcoming_Releases_Option2.gif",
         "catalogSources": [
           {
             "type": "movie",
@@ -1233,7 +1233,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-upcoming-cinematic.gif?v=space-premiere-2"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/VesperTV_Upcoming_Releases_Option2.gif"
       }
     ]
   },
