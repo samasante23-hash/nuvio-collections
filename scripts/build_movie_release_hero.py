@@ -35,16 +35,18 @@ def create(digital):
  for i in range(14):
   x=950+i*70
   d.line((x,20,x+120,380),fill=(accent[0],accent[1],accent[2],15),width=2)
- # title with shadow
- lines=["LATEST DIGITAL","RELEASES"] if digital else ["UPCOMING","RELEASES"]
- sizes=[117,136] if digital else [143,136]
- for line,y,sz in zip(lines,[350,490],sizes):
-  f=font(sz);box=d.textbbox((0,0),line,font=f);tw=box[2]-box[0]
-  x=max(440,(W+380-tw)//2)
-  d.text((x+5,y+7),line,font=f,fill=(0,0,0,190))
-  d.text((x,y),line,font=f,fill=(244,248,252,255) if y==350 else accent,stroke_width=2,stroke_fill=(12,25,42,255))
- d.text((680,230),"VESPERTV",font=font(56),fill=(227,236,245,235))
- d.rounded_rectangle((680,667,1430,672),radius=3,fill=accent)
+ # Atmospheric cinematic background only. The app provides collection titles.
+ # Film projector beam on the right, no embedded typography.
+ light=(45,171,255,30) if digital else (245,126,96,30)
+ for k in range(12):
+  y0=80+k*24
+  d.polygon([(W,200),(560,y0),(560,y0+13)],fill=(light[0],light[1],light[2],max(3,24-k)))
+ for k in range(10):
+  rr=55+k*26
+  d.arc((980-rr,400-rr,980+rr,400+rr),20,160,fill=(accent[0],accent[1],accent[2],max(5,55-k*5)),width=3)
+ # Cinematic horizontal letterbox edge, dark for readability.
+ d.rectangle((0,0,W,120),fill=(0,0,0,65))
+ d.rectangle((0,H-80,W,H),fill=(0,0,0,55))
  im.save("assets/vespertv-"+("latest-digital" if digital else "upcoming")+"-hero-cinematic.png",optimize=True)
 create(True);create(False)
 
