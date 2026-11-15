@@ -1,0 +1,24 @@
+name: Publish matched gold Movie Releases tiles
+on:
+  push:
+    paths:
+      - scripts/build_gold_matched_movie_tiles.py
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pillow
+      - run: python scripts/build_gold_matched_movie_tiles.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/vespertv-latest-gold-matched-v5.gif assets/vespertv-upcoming-gold-matched-v5.gif assets/vespertv-latest-dark-hero-v5.png assets/vespertv-upcoming-dark-hero-v5.png
+          git commit -m "Match both Movie Releases tiles gold borders, logo, dimensions and safe areas" || exit 0
+          git push
