@@ -46,3 +46,5 @@ def make(which):
   frames.append(im)
  frames[0].save("assets/vespertv-"+("latest-digital" if digital else "upcoming")+"-cinematic.gif",save_all=True,append_images=frames[1:],duration=150,loop=0,optimize=True)
 make("latest");make("upcoming")
+
+# Trigger GIF generation on workflow installation.
