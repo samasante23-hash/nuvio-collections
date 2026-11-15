@@ -45,3 +45,5 @@ for i in range(20):
  frames.append(f.quantize(colors=128))
 os.makedirs("assets",exist_ok=True)
 frames[0].save("assets/vespertv-latest-matching-upcoming-logo-v4.gif",save_all=True,append_images=frames[1:],duration=110,loop=0,optimize=True)
+
+# Publish logo sizing alignment revision.
