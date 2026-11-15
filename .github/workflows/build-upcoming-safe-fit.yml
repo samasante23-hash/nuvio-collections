@@ -1,0 +1,25 @@
+name: Fix Upcoming Releases logo safe area
+on:
+  push:
+    paths:
+      - scripts/build_upcoming_safe_fit.py
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pillow
+      - run: python scripts/build_upcoming_safe_fit.py
+      - name: Commit safe-fit animated GIF
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/vespertv-upcoming-option2-safe-fit.gif
+          git commit -m "Keep Upcoming Releases logo and title within TV safe area" || exit 0
+          git push
