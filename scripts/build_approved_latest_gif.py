@@ -24,3 +24,5 @@ for i in range(24):
     frames.append(frame.quantize(colors=128,method=Image.Quantize.MEDIANCUT))
 os.makedirs("assets",exist_ok=True)
 frames[0].save("assets/vespertv-latest-digital-approved-animated-v2.gif",save_all=True,append_images=frames[1:],duration=100,loop=0,optimize=True)
+
+# Rebuild with updated publishing workflow.
