@@ -1191,11 +1191,11 @@
             "genre": "None"
           }
         ],
-        "hideTitle": false,
+        "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://i.postimg.cc/NK3tJHJ7/samtv-digital-releases.gif",
+        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-latest-digital-v2.gif",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://i.postimg.cc/NK3tJHJ7/samtv-digital-releases.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-latest-digital-v2.gif",
         "catalogSources": [
           {
             "type": "movie",
@@ -1205,7 +1205,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://i.postimg.cc/NK3tJHJ7/samtv-digital-releases.gif"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-latest-digital-v2.gif"
       },
       {
         "id": "collections.20261114-clean2.movie-releases.vespertv-upcoming-releases",
@@ -1219,11 +1219,11 @@
             "genre": "None"
           }
         ],
-        "hideTitle": false,
+        "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://i.postimg.cc/18kSCqCH/samtv-upcoming-movies.gif",
+        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-upcoming-v2.gif",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://i.postimg.cc/18kSCqCH/samtv-upcoming-movies.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-upcoming-v2.gif",
         "catalogSources": [
           {
             "type": "movie",
@@ -1233,7 +1233,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://i.postimg.cc/18kSCqCH/samtv-upcoming-movies.gif"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-upcoming-v2.gif"
       }
     ]
   },
