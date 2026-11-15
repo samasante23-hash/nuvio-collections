@@ -1,0 +1,25 @@
+name: Publish cinematic Movie Releases GIFs
+on:
+  push:
+    paths:
+      - scripts/build_movie_release_gifs.py
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pillow
+      - run: python scripts/build_movie_release_gifs.py
+      - name: Commit GIF assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/vespertv-latest-digital-cinematic.gif assets/vespertv-upcoming-cinematic.gif
+          git commit -m "Publish cinematic Movie Releases animated artwork" || exit 0
+          git push
