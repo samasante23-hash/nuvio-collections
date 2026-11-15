@@ -2319,8 +2319,8 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.list.8642250.movies",
-            "genre": "",
+            "catalogId": "tmdb.discover.movie.samtv-dc-movies-latest",
+            "genre": "None",
             "provider": "addon"
           },
           {
@@ -2348,13 +2348,6 @@
             "type": "movie",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-dc-movies-top",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-latest",
             "genre": "None",
             "provider": "addon"
           },
@@ -2412,8 +2405,8 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.list.8642250.movies",
-            "genre": ""
+            "catalogId": "tmdb.discover.movie.samtv-dc-movies-latest",
+            "genre": "None"
           },
           {
             "type": "movie",
@@ -2437,12 +2430,6 @@
             "type": "movie",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-dc-movies-top",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-latest",
             "genre": "None"
           },
           {
