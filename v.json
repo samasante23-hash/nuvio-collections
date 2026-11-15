@@ -1193,9 +1193,9 @@
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-latest-digital-v2.gif",
+        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-latest-digital-cinematic.gif",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-latest-digital-v2.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-latest-digital-cinematic.gif",
         "catalogSources": [
           {
             "type": "movie",
@@ -1205,7 +1205,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-latest-digital-v2.gif"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-latest-digital-cinematic.gif"
       },
       {
         "id": "collections.20261114-clean2.movie-releases.vespertv-upcoming-releases",
@@ -1221,9 +1221,9 @@
         ],
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-upcoming-v2.gif",
+        "focusGifUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-upcoming-cinematic.gif",
         "titleLogoUrl": "",
-        "coverImageUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-upcoming-v2.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-upcoming-cinematic.gif",
         "catalogSources": [
           {
             "type": "movie",
@@ -1233,7 +1233,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-upcoming-v2.gif"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-upcoming-cinematic.gif"
       }
     ]
   },
