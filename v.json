@@ -2333,8 +2333,8 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-popular",
-            "genre": "None",
+            "catalogId": "mdblist.100123",
+            "genre": "",
             "provider": "addon"
           },
           {
@@ -2368,8 +2368,8 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-popular",
-            "genre": "None"
+            "catalogId": "mdblist.100123",
+            "genre": ""
           },
           {
             "type": "movie",
