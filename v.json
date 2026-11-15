@@ -2313,8 +2313,8 @@
     "title": "TV Collections",
     "folders": [
       {
-        "id": "collections.20261114-clean2.tv-collections.dc-universe.latest",
-        "title": "DC · Latest Movies",
+        "id": "collections.20261114-clean2.tv-collections.dc-universe",
+        "title": "DC Universe",
         "sources": [
           {
             "type": "movie",
@@ -2322,28 +2322,7 @@
             "catalogId": "tmdb.discover.movie.samtv-dc-movies-latest",
             "genre": "None",
             "provider": "addon"
-          }
-        ],
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-latest",
-            "genre": "None"
-          }
-        ],
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/eb3ea02f.webp",
-        "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/429-dc/logos/color/429_color_1.png",
-        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/429-dc/backdrops/t2_flat_1080p.jpg",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/studios/focused/dc.gif",
-        "focusGifEnabled": true
-      },
-      {
-        "id": "collections.20261114-clean2.tv-collections.dc-universe.dcu",
-        "title": "DCU · Movies & Shows",
-        "sources": [
+          },
           {
             "type": "movie",
             "addonId": "aio-metadata",
@@ -2371,46 +2350,7 @@
             "catalogId": "tmdb.list.8642250.series",
             "genre": "",
             "provider": "addon"
-          }
-        ],
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159999",
-            "genre": "None"
           },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.160000",
-            "genre": ""
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.list.8642250.movies",
-            "genre": ""
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.list.8642250.series",
-            "genre": ""
-          }
-        ],
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/eb3ea02f.webp",
-        "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/429-dc/logos/color/429_color_1.png",
-        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/429-dc/backdrops/t2_flat_1080p.jpg",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/studios/focused/dc.gif",
-        "focusGifEnabled": true
-      },
-      {
-        "id": "collections.20261114-clean2.tv-collections.dc-universe.dceu",
-        "title": "DCEU · Movies & Shows",
-        "sources": [
           {
             "type": "movie",
             "addonId": "aio-metadata",
@@ -2424,34 +2364,7 @@
             "catalogId": "mdblist.159997",
             "genre": "None",
             "provider": "addon"
-          }
-        ],
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159996",
-            "genre": ""
           },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159997",
-            "genre": "None"
-          }
-        ],
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/eb3ea02f.webp",
-        "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/429-dc/logos/color/429_color_1.png",
-        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/429-dc/backdrops/t2_flat_1080p.jpg",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/studios/focused/dc.gif",
-        "focusGifEnabled": true
-      },
-      {
-        "id": "collections.20261114-clean2.tv-collections.dc-universe.popular",
-        "title": "DC · Popular",
-        "sources": [
           {
             "type": "movie",
             "addonId": "aio-metadata",
@@ -2472,68 +2385,14 @@
             "catalogId": "mdblist.100123",
             "genre": "",
             "provider": "addon"
-          }
-        ],
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-popular",
-            "genre": "None"
           },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-dc-universe-popular",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.100123",
-            "genre": ""
-          }
-        ],
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/eb3ea02f.webp",
-        "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/429-dc/logos/color/429_color_1.png",
-        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/429-dc/backdrops/t2_flat_1080p.jpg",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/studios/focused/dc.gif",
-        "focusGifEnabled": true
-      },
-      {
-        "id": "collections.20261114-clean2.tv-collections.dc-universe.top",
-        "title": "DC · Top Rated",
-        "sources": [
           {
             "type": "movie",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.movie.samtv-dc-movies-top",
             "genre": "None",
             "provider": "addon"
-          }
-        ],
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-movies-top",
-            "genre": "None"
-          }
-        ],
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/eb3ea02f.webp",
-        "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/429-dc/logos/color/429_color_1.png",
-        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/429-dc/backdrops/t2_flat_1080p.jpg",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/studios/focused/dc.gif",
-        "focusGifEnabled": true
-      },
-      {
-        "id": "collections.20261114-clean2.tv-collections.dc-universe.animation",
-        "title": "DC · Animation",
-        "sources": [
+          },
           {
             "type": "movie",
             "addonId": "aio-metadata",
@@ -2564,6 +2423,72 @@
           }
         ],
         "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-dc-movies-latest",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159999",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.160000",
+            "genre": ""
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.list.8642250.movies",
+            "genre": ""
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.list.8642250.series",
+            "genre": ""
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159996",
+            "genre": ""
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159997",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-dc-movies-popular",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-dc-universe-popular",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.100123",
+            "genre": ""
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.samtv-dc-movies-top",
+            "genre": "None"
+          },
           {
             "type": "movie",
             "addonId": "aio-metadata",
