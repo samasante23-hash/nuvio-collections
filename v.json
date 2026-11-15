@@ -2340,7 +2340,7 @@
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.list.8642250.series",
+            "catalogId": "mdblist.160000",
             "genre": "",
             "provider": "addon"
           }
@@ -2367,7 +2367,7 @@
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.list.8642250.series",
+            "catalogId": "mdblist.160000",
             "genre": ""
           }
         ],
