@@ -1,10 +1,10 @@
 [
   {
-    "id": "collections-streaming-nox",
+    "id": "collections.samtv-refresh-20261114.streaming",
     "title": "Streaming",
     "folders": [
       {
-        "id": "collections.nox-streaming.netflix",
+        "id": "collections.samtv-refresh-20261114.streaming.netflix",
         "title": "Netflix",
         "sources": [
           {
@@ -99,7 +99,7 @@
         ]
       },
       {
-        "id": "collections.nox-streaming.disney-plus",
+        "id": "collections.samtv-refresh-20261114.streaming.disneyplus",
         "title": "Disney+",
         "sources": [
           {
@@ -194,7 +194,7 @@
         ]
       },
       {
-        "id": "collections.nox-streaming.prime-video",
+        "id": "collections.samtv-refresh-20261114.streaming.prime-video",
         "title": "Prime Video",
         "sources": [
           {
@@ -302,7 +302,7 @@
         ]
       },
       {
-        "id": "collections.nox-streaming.apple-tv",
+        "id": "collections.samtv-refresh-20261114.streaming.apple-tvplus",
         "title": "Apple TV+",
         "sources": [
           {
@@ -397,7 +397,7 @@
         ]
       },
       {
-        "id": "collections.nox-streaming.hbo-max",
+        "id": "collections.samtv-refresh-20261114.streaming.hbo-max",
         "title": "HBO Max",
         "sources": [
           {
@@ -492,7 +492,7 @@
         ]
       },
       {
-        "id": "collections.nox-streaming.hulu",
+        "id": "collections.samtv-refresh-20261114.streaming.hulu",
         "title": "Hulu",
         "sources": [
           {
@@ -587,7 +587,7 @@
         ]
       },
       {
-        "id": "collections.nox-streaming.paramount-plus",
+        "id": "collections.samtv-refresh-20261114.streaming.paramountplus",
         "title": "Paramount+",
         "sources": [
           {
@@ -682,7 +682,7 @@
         ]
       },
       {
-        "id": "collections.nox-streaming.peacock",
+        "id": "collections.samtv-refresh-20261114.streaming.peacock",
         "title": "Peacock",
         "sources": [
           {
@@ -777,7 +777,7 @@
         ]
       },
       {
-        "id": "collections.samtv-streaming.crave",
+        "id": "collections.samtv-refresh-20261114.streaming.crave",
         "title": "Crave",
         "sources": [
           {
@@ -815,7 +815,7 @@
         "focusGifUrl": "https://images.squarespace-cdn.com/content/v1/58a89931be6594a0841bca85/1580415074538-EQ2LUV5NJB86UVKEWRYQ/Crave-Logo-AppIcon-Animation.gif"
       },
       {
-        "id": "collections.kalel-streaming.skyshowtime",
+        "id": "collections.samtv-refresh-20261114.streaming.skyshowtime",
         "title": "SkyShowtime",
         "sources": [
           {
@@ -907,7 +907,7 @@
         "focusGifUrl": "https://media.giphy.com/media/TrkeEo38E8wBTMWsHH/giphy.gif"
       },
       {
-        "id": "collections.kalel-streaming.mgmplus",
+        "id": "collections.samtv-refresh-20261114.streaming.mgmplus",
         "title": "MGM+",
         "sources": [
           {
@@ -999,7 +999,7 @@
         "focusGifUrl": "https://64.media.tumblr.com/9f43b185411e18d71444c9a5a5a79632/5d68ae94e9917470-70/s500x750/0871e87c17045759735ef64c26703c71b585bfb0.gifv"
       },
       {
-        "id": "collections.kalel-streaming.lifetime",
+        "id": "collections.samtv-refresh-20261114.streaming.lifetime",
         "title": "Lifetime",
         "sources": [
           {
@@ -1080,7 +1080,7 @@
         "heroVideoUrl": ""
       },
       {
-        "id": "collections.kalel-streaming.tubi",
+        "id": "collections.samtv-refresh-20261114.streaming.tubi",
         "title": "Tubi",
         "sources": [
           {
@@ -1176,11 +1176,11 @@
     ]
   },
   {
-    "id": "collections-movie-releases",
+    "id": "collections.samtv-refresh-20261114.movie-releases",
     "title": "Movie Releases",
     "folders": [
       {
-        "id": "collections.movie-releases.digital",
+        "id": "collections.samtv-refresh-20261114.movie-releases.latest-movies",
         "title": "Latest Movies",
         "sources": [
           {
@@ -1208,7 +1208,7 @@
         "heroBackdropUrl": "https://cdn.xperience-app.com/covers/dynamic_showcase/new_latest.latest_digital_releases.backdrop.webp?v=20260927"
       },
       {
-        "id": "collections.movie-releases.upcoming",
+        "id": "collections.samtv-refresh-20261114.movie-releases.upcoming-movies",
         "title": "Upcoming Movies",
         "sources": [
           {
@@ -1238,11 +1238,11 @@
     ]
   },
   {
-    "id": "collections-genres-nox",
+    "id": "collections.samtv-refresh-20261114.genres",
     "title": "Genres",
     "folders": [
       {
-        "id": "collections.nox-genres.action",
+        "id": "collections.samtv-refresh-20261114.genres.action",
         "title": "Action",
         "sources": [
           {
@@ -1307,7 +1307,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.animation",
+        "id": "collections.samtv-refresh-20261114.genres.animation",
         "title": "Animation",
         "sources": [
           {
@@ -1372,7 +1372,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.anime",
+        "id": "collections.samtv-refresh-20261114.genres.anime",
         "title": "Anime",
         "sources": [
           {
@@ -1437,7 +1437,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.comedy",
+        "id": "collections.samtv-refresh-20261114.genres.comedy",
         "title": "Comedy",
         "sources": [
           {
@@ -1502,7 +1502,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.crime",
+        "id": "collections.samtv-refresh-20261114.genres.crime",
         "title": "Crime",
         "sources": [
           {
@@ -1567,7 +1567,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.documentary",
+        "id": "collections.samtv-refresh-20261114.genres.documentary",
         "title": "Documentary",
         "sources": [
           {
@@ -1632,7 +1632,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.drama",
+        "id": "collections.samtv-refresh-20261114.genres.drama",
         "title": "Drama",
         "sources": [
           {
@@ -1697,7 +1697,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.family",
+        "id": "collections.samtv-refresh-20261114.genres.family",
         "title": "Family",
         "sources": [
           {
@@ -1762,7 +1762,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.history",
+        "id": "collections.samtv-refresh-20261114.genres.history",
         "title": "History",
         "sources": [
           {
@@ -1788,7 +1788,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.horror",
+        "id": "collections.samtv-refresh-20261114.genres.horror",
         "title": "Horror",
         "sources": [
           {
@@ -1827,7 +1827,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.mystery",
+        "id": "collections.samtv-refresh-20261114.genres.mystery",
         "title": "Mystery",
         "sources": [
           {
@@ -1892,7 +1892,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.nature",
+        "id": "collections.samtv-refresh-20261114.genres.nature",
         "title": "Nature",
         "sources": [
           {
@@ -1957,7 +1957,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.reality",
+        "id": "collections.samtv-refresh-20261114.genres.reality",
         "title": "Reality",
         "sources": [
           {
@@ -1996,7 +1996,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.romance",
+        "id": "collections.samtv-refresh-20261114.genres.romance",
         "title": "Romance",
         "sources": [
           {
@@ -2035,7 +2035,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.sci-fi",
+        "id": "collections.samtv-refresh-20261114.genres.sci-fi",
         "title": "Sci-Fi",
         "sources": [
           {
@@ -2100,7 +2100,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-genres.thriller",
+        "id": "collections.samtv-refresh-20261114.genres.thriller",
         "title": "Thriller",
         "sources": [
           {
@@ -2141,11 +2141,11 @@
     ]
   },
   {
-    "id": "collections-decades-nox",
+    "id": "collections.samtv-refresh-20261114.decades",
     "title": "Decades",
     "folders": [
       {
-        "id": "collections.nox-decades.2020s",
+        "id": "collections.samtv-refresh-20261114.decades.2020s",
         "title": "2020s",
         "sources": [
           {
@@ -2172,7 +2172,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-decades.2010s",
+        "id": "collections.samtv-refresh-20261114.decades.2010s",
         "title": "2010s",
         "sources": [
           {
@@ -2199,7 +2199,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-decades.2000s",
+        "id": "collections.samtv-refresh-20261114.decades.2000s",
         "title": "2000s",
         "sources": [
           {
@@ -2226,7 +2226,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-decades.1990s",
+        "id": "collections.samtv-refresh-20261114.decades.1990s",
         "title": "1990s",
         "sources": [
           {
@@ -2253,7 +2253,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-decades.1980s",
+        "id": "collections.samtv-refresh-20261114.decades.1980s",
         "title": "1980s",
         "sources": [
           {
@@ -2280,7 +2280,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-decades.1970s",
+        "id": "collections.samtv-refresh-20261114.decades.1970s",
         "title": "1970s",
         "sources": [
           {
@@ -2309,11 +2309,11 @@
     ]
   },
   {
-    "id": "collections-themed-tv-nox",
+    "id": "collections.samtv-refresh-20261114.tv-collections",
     "title": "TV Collections",
     "folders": [
       {
-        "id": "collections.nox-tv.spies",
+        "id": "collections.samtv-refresh-20261114.tv-collections.spies",
         "title": "Spies",
         "sources": [
           {
@@ -2340,7 +2340,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-tv.robots-and-ai",
+        "id": "collections.samtv-refresh-20261114.tv-collections.robots-and-ai",
         "title": "Robots and AI",
         "sources": [
           {
@@ -2367,7 +2367,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-tv.dc-universe",
+        "id": "collections.samtv-refresh-20261114.tv-collections.dc-universe",
         "title": "DC Universe",
         "sources": [
           {
@@ -2577,7 +2577,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-tv.marvel",
+        "id": "collections.samtv-refresh-20261114.tv-collections.marvel",
         "title": "Marvel",
         "sources": [
           {
@@ -2709,7 +2709,7 @@
         "focusGifEnabled": true
       },
       {
-        "id": "collections.nox-tv.sherlock-holmes",
+        "id": "collections.samtv-refresh-20261114.tv-collections.sherlock-holmes",
         "title": "Sherlock Holmes",
         "sources": [
           {
