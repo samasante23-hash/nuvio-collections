@@ -2313,60 +2313,6 @@
     "title": "TV Collections",
     "folders": [
       {
-        "id": "collections.20261114-clean2.tv-collections.spies",
-        "title": "Spies",
-        "sources": [
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-spies-popular",
-            "genre": "None",
-            "provider": "addon"
-          }
-        ],
-        "catalogSources": [
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-spies-popular",
-            "genre": "None"
-          }
-        ],
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/genres/spies/spies-landscape.png",
-        "heroBackdropUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/genres/spies/spies-landscape.png",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/themes/focused/spy.gif",
-        "focusGifEnabled": true
-      },
-      {
-        "id": "collections.20261114-clean2.tv-collections.robots-and-ai",
-        "title": "Robots and AI",
-        "sources": [
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-robots-and-ai-popular",
-            "genre": "None",
-            "provider": "addon"
-          }
-        ],
-        "catalogSources": [
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-robots-and-ai-popular",
-            "genre": "None"
-          }
-        ],
-        "hideTitle": true,
-        "tileShape": "LANDSCAPE",
-        "coverImageUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/genres/robots-and-ai/robots-and-ai-landscape.png",
-        "heroBackdropUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/genres/robots-and-ai/robots-and-ai-landscape.png",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/themes/focused/space.gif",
-        "focusGifEnabled": true
-      },
-      {
         "id": "collections.20261114-clean2.tv-collections.dc-universe.latest",
         "title": "DC · Latest Movies",
         "sources": [
@@ -2663,9 +2609,16 @@
             "provider": "addon"
           },
           {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159982",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "custom.de_marvel_katalog.series.marvel_series",
+            "catalogId": "mdblist.159984",
             "genre": "",
             "provider": "addon"
           },
@@ -2673,6 +2626,13 @@
             "type": "movie",
             "addonId": "aio-metadata",
             "catalogId": "custom.de_marvel_katalog.movie.marvel_movies",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.de_marvel_katalog.series.marvel_series",
             "genre": "",
             "provider": "addon"
           },
@@ -2695,20 +2655,6 @@
             "addonId": "aio-metadata",
             "catalogId": "tmdb.discover.series.samtv-marvel-animated-shows",
             "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159982",
-            "genre": "",
-            "provider": "addon"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159984",
-            "genre": "",
             "provider": "addon"
           },
           {
@@ -2727,15 +2673,27 @@
             "genre": "None"
           },
           {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.159982",
+            "genre": ""
+          },
+          {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "custom.de_marvel_katalog.series.marvel_series",
+            "catalogId": "mdblist.159984",
             "genre": ""
           },
           {
             "type": "movie",
             "addonId": "aio-metadata",
             "catalogId": "custom.de_marvel_katalog.movie.marvel_movies",
+            "genre": ""
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.de_marvel_katalog.series.marvel_series",
             "genre": ""
           },
           {
@@ -2757,18 +2715,6 @@
             "genre": "None"
           },
           {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159982",
-            "genre": ""
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159984",
-            "genre": ""
-          },
-          {
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.141963",
@@ -2781,6 +2727,60 @@
         "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/420-marvel-studios/logos/color/420_color_1.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/companies/420-marvel-studios/backdrops/t2_flat_1080p.jpg",
         "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/studios/focused/marvel.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.20261114-clean2.tv-collections.spies",
+        "title": "Spies",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-spies-popular",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-spies-popular",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/genres/spies/spies-landscape.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/genres/spies/spies-landscape.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/themes/focused/spy.gif",
+        "focusGifEnabled": true
+      },
+      {
+        "id": "collections.20261114-clean2.tv-collections.robots-and-ai",
+        "title": "Robots and AI",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-robots-and-ai-popular",
+            "genre": "None",
+            "provider": "addon"
+          }
+        ],
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.samtv-robots-and-ai-popular",
+            "genre": "None"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/genres/robots-and-ai/robots-and-ai-landscape.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/rrevanth/nuvio-assets/main/genres/robots-and-ai/robots-and-ai-landscape.png",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup@main/collections/themes/focused/space.gif",
         "focusGifEnabled": true
       },
       {
