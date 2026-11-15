@@ -2340,20 +2340,6 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "mdblist.159999",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.160000",
-            "genre": "",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
             "catalogId": "mdblist.159996",
             "genre": "",
             "provider": "addon"
@@ -2439,18 +2425,6 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "tmdb.list.8642250.series",
-            "genre": ""
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.159999",
-            "genre": "None"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "mdblist.160000",
             "genre": ""
           },
           {
