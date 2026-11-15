@@ -2319,6 +2319,13 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
+            "catalogId": "tmdb.list.8642250.movies",
+            "genre": "",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
             "catalogId": "mdblist.159996",
             "genre": "",
             "provider": "addon"
@@ -2402,6 +2409,12 @@
           }
         ],
         "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.list.8642250.movies",
+            "genre": ""
+          },
           {
             "type": "movie",
             "addonId": "aio-metadata",
