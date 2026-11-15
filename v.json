@@ -1205,7 +1205,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-latest-digital-cinematic.gif"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-latest-digital-hero-cinematic.png"
       },
       {
         "id": "collections.20261114-clean2.movie-releases.vespertv-upcoming-releases",
@@ -1233,7 +1233,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-upcoming-cinematic.gif"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/samasante23-hash/nuvio-collections/main/assets/vespertv-upcoming-hero-cinematic.png"
       }
     ]
   },
