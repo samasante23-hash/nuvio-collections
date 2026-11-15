@@ -2340,7 +2340,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-animated-movies",
+            "catalogId": "mdblist.121646",
             "genre": "None",
             "provider": "addon"
           },
@@ -2374,7 +2374,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-dc-animated-movies",
+            "catalogId": "mdblist.121646",
             "genre": "None"
           },
           {
