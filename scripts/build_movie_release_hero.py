@@ -47,3 +47,5 @@ def create(digital):
  d.rounded_rectangle((680,667,1430,672),radius=3,fill=accent)
  im.save("assets/vespertv-"+("latest-digital" if digital else "upcoming")+"-hero-cinematic.png",optimize=True)
 create(True);create(False)
+
+# Trigger publishing workflow.
