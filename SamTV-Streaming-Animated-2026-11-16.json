@@ -1088,7 +1088,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-digital-current",
+            "catalogId": "tmdb.discover.movie.vesper-digital-releases-2026",
             "provider": "addon",
             "genre": "None"
           }
@@ -1104,7 +1104,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-digital-current",
+            "catalogId": "tmdb.discover.movie.vesper-digital-releases-2026",
             "genre": "None"
           }
         ],
@@ -1118,7 +1118,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-upcoming-future",
+            "catalogId": "tmdb.discover.movie.vesper-upcoming-releases-2026",
             "provider": "addon",
             "genre": "None"
           }
@@ -1134,7 +1134,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-upcoming-future",
+            "catalogId": "tmdb.discover.movie.vesper-upcoming-releases-2026",
             "genre": "None"
           }
         ],
