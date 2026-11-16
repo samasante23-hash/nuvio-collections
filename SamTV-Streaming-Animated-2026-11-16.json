@@ -718,10 +718,10 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/focused/peacock.gif",
+        "focusGifUrl": "https://64.media.tumblr.com/a378bf124ed7d00c8d7430cb8a9ae0cc/9e0da9dbc32641f6-b2/s1280x1920/e8c0ba2f6aadae5b6f532a177926528e94b04d68.gifv",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/title/peacock.png",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/cover/peacock.png",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/1d9c3371-5fcd-422c-b967-64a5d3847889.png",
         "focusGifEnabled": true,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/peacock.jpg",
         "catalogSources": [
@@ -892,11 +892,11 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/SkyShowtime_Logo.svg?width=640",
         "titleLogoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/SkyShowtime_Logo.svg?width=640",
-        "focusGifUrl": "https://media.giphy.com/media/VhidKpaRnNu4DoHQMD/giphy.gif",
-        "heroVideoUrl": "https://media.giphy.com/media/VhidKpaRnNu4DoHQMD/giphy.gif"
+        "focusGifUrl": "",
+        "heroVideoUrl": ""
       },
       {
         "id": "collections.kalel-streaming.mgmplus",
@@ -986,10 +986,10 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "focusGifEnabled": true,
-        "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/MGM%2B_logo.svg?width=640",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/886dd8ac-2c7f-4ad6-9fe9-dab115ca7c00.jpg",
         "titleLogoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/MGM%2B_logo.svg?width=640",
-        "focusGifUrl": "https://i.postimg.cc/zvL6VW8t/mgm-resize.gif",
-        "heroVideoUrl": "https://i.postimg.cc/zvL6VW8t/mgm-resize.gif"
+        "focusGifUrl": "https://64.media.tumblr.com/9f43b185411e18d71444c9a5a5a79632/5d68ae94e9917470-70/s500x750/0871e87c17045759735ef64c26703c71b585bfb0.gifv",
+        "heroVideoUrl": ""
       },
       {
         "id": "collections.samtv-streaming.lifetime",
@@ -1012,11 +1012,11 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://media.giphy.com/media/3oKIP8dyDddO2oHf3y/giphy.gif",
-        "heroVideoUrl": "https://media.giphy.com/media/3oKIP8dyDddO2oHf3y/giphy.gif",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lifetime_logo.svg?width=640",
         "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lifetime_logo.svg?width=640",
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "",
         "catalogSources": [
           {
@@ -1054,11 +1054,11 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://media.giphy.com/media/Ir5LyvaOtAz2iHJ1W9/giphy.gif",
-        "heroVideoUrl": "https://media.giphy.com/media/Ir5LyvaOtAz2iHJ1W9/giphy.gif",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tubi_logo.svg?width=640",
         "coverImageUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tubi_logo.svg?width=640",
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "",
         "catalogSources": [
           {
