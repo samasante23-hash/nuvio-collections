@@ -198,18 +198,18 @@
         "title": "Prime Video",
         "sources": [
           {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.com_sam_streaming_catalogs_services.series.prime_video_recent_series",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
             "type": "movie",
             "addonId": "aio-metadata",
             "catalogId": "custom.com_sam_streaming_catalogs_services.movie.prime_video_recent_movies",
             "provider": "addon",
             "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.series.prime_video_recent_series",
+            "genre": "None",
+            "provider": "addon"
           },
           {
             "type": "movie",
@@ -251,15 +251,15 @@
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/streaming/backdrop/prime-video.jpg",
         "catalogSources": [
           {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.com_sam_streaming_catalogs_services.series.prime_video_recent_series",
-            "genre": "None"
-          },
-          {
             "type": "movie",
             "addonId": "aio-metadata",
             "catalogId": "custom.com_sam_streaming_catalogs_services.movie.prime_video_recent_movies",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.series.prime_video_recent_series",
             "genre": "None"
           },
           {
