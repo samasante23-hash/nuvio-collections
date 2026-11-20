@@ -817,7 +817,7 @@
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "streaming.sst",
+            "catalogId": "tmdb.discover.series.samtv-skyshowtime-recent-released",
             "genre": "None",
             "provider": "addon"
           },
@@ -860,7 +860,7 @@
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "streaming.sst",
+            "catalogId": "tmdb.discover.series.samtv-skyshowtime-recent-released",
             "genre": "None"
           },
           {
