@@ -105,7 +105,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-disney-new",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.disney_plus_recent_movies",
             "genre": "None",
             "provider": "addon"
           },
@@ -158,7 +158,7 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-disney-new",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.disney_plus_recent_movies",
             "genre": "None"
           },
           {
@@ -308,14 +308,14 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-apple-new",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.apple_tv_plus_recent_movies",
             "genre": "None",
             "provider": "addon"
           },
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-apple-new",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.series.apple_tv_plus_recent_series",
             "genre": "None",
             "provider": "addon"
           },
@@ -361,13 +361,13 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-apple-new",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.apple_tv_plus_recent_movies",
             "genre": "None"
           },
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-apple-new",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.series.apple_tv_plus_recent_series",
             "genre": "None"
           },
           {
@@ -403,14 +403,14 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-max-new",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.hbo_max_recent_movies",
             "genre": "None",
             "provider": "addon"
           },
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-max-new",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.series.hbo_max_recent_series",
             "genre": "None",
             "provider": "addon"
           },
@@ -456,13 +456,13 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-max-new",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.hbo_max_recent_movies",
             "genre": "None"
           },
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-max-new",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.series.hbo_max_recent_series",
             "genre": "None"
           },
           {
@@ -688,14 +688,14 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-peacock-new",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.peacock_recent_movies",
             "genre": "None",
             "provider": "addon"
           },
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-peacock-new",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.series.peacock_recent_series",
             "genre": "None",
             "provider": "addon"
           },
@@ -741,13 +741,13 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-peacock-new",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.peacock_recent_movies",
             "genre": "None"
           },
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-peacock-new",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.series.peacock_recent_series",
             "genre": "None"
           },
           {
@@ -913,14 +913,14 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.streaming_mgm_plus_34_19.mofpwoue",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.mgm_plus_recent_movies",
             "genre": "None",
             "provider": "addon"
           },
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.streaming_mgm_plus_34_19.mofpwoue",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.series.mgm_plus_recent_series",
             "genre": "None",
             "provider": "addon"
           },
@@ -957,13 +957,13 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.streaming_mgm_plus_34_19.mofpwoue",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.mgm_plus_recent_movies",
             "genre": "None"
           },
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.streaming_mgm_plus_34_19.mofpwoue",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.series.mgm_plus_recent_series",
             "genre": "None"
           },
           {
@@ -1047,14 +1047,14 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-tubi-latest-20261114",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.tubi_recent_movies",
             "provider": "addon",
             "genre": "None"
           },
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.kalel-tubi-latest",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.series.tubi_recent_series",
             "genre": "None",
             "provider": "addon"
           }
@@ -1063,13 +1063,13 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-tubi-latest-20261114",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.tubi_recent_movies",
             "genre": "None"
           },
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.kalel-tubi-latest",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.series.tubi_recent_series",
             "genre": "None"
           }
         ],
