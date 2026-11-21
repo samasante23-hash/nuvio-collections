@@ -1151,7 +1151,28 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.upcoming_releases",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.upcoming_movies",
+            "provider": "addon",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.upcoming_tv_movies",
+            "provider": "addon",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.upcoming_short_films",
+            "provider": "addon",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.upcoming_tv_specials",
             "provider": "addon",
             "genre": "None"
           }
@@ -1165,7 +1186,25 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.upcoming_releases",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.upcoming_movies",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.upcoming_tv_movies",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.upcoming_short_films",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.upcoming_tv_specials",
             "genre": "None"
           }
         ],
