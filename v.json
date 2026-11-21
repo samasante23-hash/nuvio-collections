@@ -1110,7 +1110,14 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.latest_digital_releases",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.latest_streaming_releases",
+            "provider": "addon",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.latest_rent_buy_releases",
             "provider": "addon",
             "genre": "None"
           }
@@ -1124,7 +1131,13 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.latest_digital_releases",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.latest_streaming_releases",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "custom.com_sam_streaming_catalogs_services.movie.latest_rent_buy_releases",
             "genre": "None"
           }
         ],
