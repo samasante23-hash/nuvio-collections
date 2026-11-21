@@ -105,6 +105,20 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp",
+            "genre": "None",
+            "provider": "addon"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
             "catalogId": "custom.com_sam_streaming_catalogs_services.movie.disney_plus_recent_movies",
             "genre": "None",
             "provider": "addon"
@@ -113,34 +127,6 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "custom.com_sam_streaming_catalogs_services.series.disney_plus_recent_series",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-disney-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-disney-popular",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-disney-top",
-            "genre": "None",
-            "provider": "addon"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-disney-top",
             "genre": "None",
             "provider": "addon"
           }
@@ -158,6 +144,18 @@
           {
             "type": "movie",
             "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp",
+            "genre": "None"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp",
+            "genre": "None"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
             "catalogId": "custom.com_sam_streaming_catalogs_services.movie.disney_plus_recent_movies",
             "genre": "None"
           },
@@ -165,30 +163,6 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "custom.com_sam_streaming_catalogs_services.series.disney_plus_recent_series",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-disney-popular",
-            "genre": "None"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-disney-popular",
-            "genre": "None"
-          },
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.samtv-disney-top",
-            "genre": "None"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.samtv-disney-top",
             "genre": "None"
           }
         ]
